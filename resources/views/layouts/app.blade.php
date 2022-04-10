@@ -41,4 +41,30 @@
             @yield('content');
         </div>
     </body>  
+    <footer id="footer" class="footer-1  text-center  bg-light">
+        <hr style="display: block;border-style: inset; border-width: 10px;border: 10px solid darkblue;border-radius: 5px;">
+        <div class="main-footer widgets-dark typo-light">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div class="widget subscribe no-box">
+                            <h5 class="widget-title">My NAME IS<span></span></h5>
+                            <p><strong class="text-warning">Abdallah Mahmoud Fahmy</strong>.</p>
+                            <p>Software Developer.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="footer-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <p>© Abdallah. 2022. All rights reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </html>

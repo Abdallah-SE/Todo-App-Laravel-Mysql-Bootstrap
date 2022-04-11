@@ -13,6 +13,7 @@ Todo App.
  - Reducing dublication of resources.
  - Manage Controllers.
  - Register Route.
+ - validate data before adding or editing it.
         
 ## Getting Started
  - Using PHP Version 8.0.2.
